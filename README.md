@@ -3,7 +3,8 @@
 💻 Full Stack Developer  
 ⚛️ React.js | 🐍 Django  
 
----
+---![+ (1)](https://github.com/user-attachments/assets/a8104338-6def-44f5-9a98-2ba8c8d687bb)
+
 
 ## 🚀 About Me
 I'm a full stack developer who enjoys building modern, responsive, and scalable web applications. I focus on writing clean, efficient code and turning ideas into real, working products.
