@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Guga
 
-<!--
-**GugaKhutsidze/GugaKhutsidze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+⚛️ React.js | 🐍 Django  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a full stack developer who enjoys building modern, responsive, and scalable web applications. I focus on writing clean, efficient code and turning ideas into real, working products.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Design
+
+### Backend
+- Python
+- REST APIs
+- Authentication & Authorization
+
+
+## 📈 Goals
+- Improve backend and system design skills  
+- Build production-level applications  
+- Keep learning and growing as a developer  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/GugaKHutsidze  
+- Email: gugakhutsidzee@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I enjoy solving problems and improving my coding skills every day 🚀
