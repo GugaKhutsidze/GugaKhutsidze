@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Guga
 
 💻 Full Stack Developer  
-⚛️ React.js | 🐍 Django  
-
+⚛️ React.js 
 
 
 
