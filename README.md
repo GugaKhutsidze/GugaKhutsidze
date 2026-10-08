@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guga
 
-💻 Full Stack Developer  
+💻 Developer  
 ⚛️ React.js 
 
 
