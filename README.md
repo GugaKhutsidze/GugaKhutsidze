@@ -19,10 +19,6 @@ I'm a full stack developer who enjoys building modern, responsive, and scalable 
 - CSS3
 - Responsive Design
 
-### Backend
-- Python
-- REST APIs
-- Authentication & Authorization
 
 
 ## 📈 Goals
